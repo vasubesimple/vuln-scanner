@@ -1,2 +1,6 @@
-# vuln-scanner
-Simple vulnerability scanner being developed in Qt C++ with useful features as outdated service and software scanner, XSS,SQLi,DNS Zone Transfer tester... It automates the process for scanning and identifying potential software errors. This software includes a PHP platform that save all the scans performed in a MySQL database.
+Vulnerability Scanner & Web Platform
+=====================
+
+##### This project was done for the last year school project. It is still being developed.
+
+Both applications, coded in C++ and PHP respectively, were done in order to facilitate the process of search and identify potential vulnerabilities hosted in services, software and web applications.
