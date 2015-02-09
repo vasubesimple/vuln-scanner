@@ -1,0 +1,37 @@
+error in your SQL syntax
+vuln_sqli_tester
+mysql_num_rows()
+mysql_fetch_array()
+mysqli_num_rows()
+mysqli_fetch_array()
+Error Occurred While Processing Request
+Server Error in '/' Application
+Microsoft OLE DB Provider for ODBC Drivers error
+InvalidQuerystring
+OLE DB Provider for ODBC
+VBScript Runtime
+ADODB.Field
+BOF or EOF
+JET Database
+Syntax error
+pg_exec()
+mysql_fetch_row()
+mysqli_fetch_row()
+include()
+mysql_result()
+mysql_query()
+mysqli_result()
+mysqli_query()
+preg_match()
+mysql_fetch_assoc()
+mysqli_fetch_assoc()
+Illegal double
+mysql_query
+mysql_error
+mysql_fetch_object()
+mysqli_query
+mysqli_error
+mysqli_fetch_object()
+GetArray()
+FetchRow()
+Input string was not in a correct format

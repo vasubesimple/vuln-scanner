@@ -1,0 +1,11 @@
+root
+admin
+1234
+123456
+administrador
+convidado
+guest
+administrator
+epinfante
+msfadmin
+test12345
