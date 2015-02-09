@@ -10,4 +10,4 @@ Both applications, coded in C++ and PHP respectively, were done in order to faci
 
 
 
-![Alt text](http://i.gyazo.com/1db9faf9f271f40f7630a90e68094a3e.png "Screenshot of the web application")
+![Alt text](http://i.gyazo.com/72b6e7e6147835be85645cc1c173f9e5.png "Screenshot of the web application")
