@@ -7,3 +7,7 @@ Both applications, coded in C++ and PHP respectively, were done in order to faci
 
 
 ![Alt text](http://i.gyazo.com/36df511043a7b7d19d436e8a56364c00.png "Screenshot of the main application")
+
+
+
+![Alt text](http://i.gyazo.com/1db9faf9f271f40f7630a90e68094a3e.png "Screenshot of the web application")
